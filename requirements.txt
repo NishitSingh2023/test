@@ -1,13 +1,18 @@
+appdirs==1.4.3
 atomicwrites==1.4.0
 attrs==19.3.0
 colorama==0.4.3
+distlib==0.3.0
+filelock==3.0.12
 more-itertools==8.2.0
-pandoc==1.0.2
+pbr==5.4.5
 pluggy==0.13.1
-ply==3.11
 py==1.8.1
-pypandoc==1.5
 pytest==4.3.1
 pytest-runner==4.4
 six==1.14.0
--e git+https://github.com/NishitSingh2023/test@e43a528b398a7abe37c817fa4740c6be34562238#egg=titanic
+stevedore==1.32.0
+virtualenv==20.0.20
+virtualenv-clone==0.5.4
+virtualenvwrapper==4.8.4
+virtualenvwrapper-win==1.2.6
